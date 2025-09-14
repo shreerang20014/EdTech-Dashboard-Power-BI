@@ -4,20 +4,20 @@
 
 ## Problem Statement
 
-Task is to clean and analyse the data to uncover valuable insights. To ensure the startup can effectively leverage this information, I have created a dashboard that presents following 
+The task is to clean and analyse the data to uncover valuable insights. To ensure the startup can effectively leverage this information, I have created a dashboard that presents the following 
 insights. My analysis will help the company identify areas for improvement and opportunities for growth in their recorded lecture services. 
 
 ### Key Insights
 
-1️⃣ Used Donut Charts to analyze the percentage distribution of course types across categories—helping the client identify high-demand areas for strategic content development. 
+1️⃣ Used Donut Charts to analyse the percentage distribution of course types across categories—helping the client identify high-demand areas for strategic content development. 
 
 2️⃣ Created Stacked Column Charts to calculate average views by category, sub-category, and language—offering actionable insights into audience engagement. 
 
 3️⃣ Used a Word Cloud to identify the most commonly taught skills, keeping course offerings aligned with current job market demands.
 
-4️⃣ Analyzed language distribution for courses via Pie Charts, helping tailor content accessibility across audiences. \
+4️⃣ Analysed language distribution for courses via Pie Charts, helping tailor content accessibility across audiences.
 
-5️⃣ Emphasized viewer language preferences for the top 5 categories using Matrix Visuals and DAX to rank data, providing a strategic focus for content optimization. 
+5️⃣ Emphasised viewer language preferences for the top 5 categories using Matrix Visuals and DAX to rank data, providing a strategic focus for content optimisation. 
 
 6️⃣ Explored the relationship between subtitles and views using Line Charts, highlighting the importance of subtitles for engagement and accessibility. 
 
